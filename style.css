@@ -1,0 +1,70 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+body{
+    height: 2000px;
+}
+
+.navbar-brand{
+    font-weight: 700;
+}
+
+.nav-item{
+    padding: 10px;
+    color: white;
+}
+
+.nav-link:hover{
+    color: white;
+}
+
+.votingbtn{
+    background-color: white;
+    border-radius: 10px;
+    transition: 0.5s;
+    padding: 12px 13px;
+}
+
+.votingbtn:hover{
+    transform: scale(1.05);
+    box-shadow: inset -10.5em 0 0 black;
+    color: white;
+}
+
+
+#banner{
+   
+    padding-top: 9%;
+    background-position: 1%;
+    max-height: 1500px;
+    z-index: 999;
+}
+
+.picture-1{
+    background: url("https://news.harvard.edu/wp-content/uploads/2021/03/iStock-Black-Man-Voting2500.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 100%;
+    background-position: 1px;
+    box-shadow: inset 0px 0px 400px 110px rgba(0, 0, 0, .7);
+}
+
+#title{
+    position: relative;
+    top: 150px;
+}
+
+#card{
+    position: relative;
+    top: 240px;
+}
+
+.card{
+    background-color: gainsboro;
+    border-color: black;
+    width: 90%;
+    margin: 0 auto;
+}
