@@ -32,12 +32,34 @@ Bootstrap is a popular framework used in web development to make building websit
 
 - After that , scroll down the page just a little and you will find this section.
 
-- The example is attached below this sentence ( yes this sentence lol ):
 
-   
+![Screenshot 2023-12-18 163208](https://github.com/nidqija/voting-website/assets/144256646/2629933a-622b-4596-b247-520c64afc7d5)
+
+  
 
 
-- Copy those two links and.... hold on let me show you :
+- copy these two links and create an index.html in your preferred code editor!
+
+- Last but not least , paste the two links inside these specific placements ( add < link > and put them inside the href section ):
+
+
+![Screenshot 2023-12-18 170910](https://github.com/nidqija/voting-website/assets/144256646/9310fd11-670d-4ef2-9034-f553c1482abe)
+
+
+
+
+ And that's the wrap! Now you can use bootstrap onto your web development.
+
+
+ 
+
+*EXTRA NOTE:*
+
+- You can refer to this website if you need a little mini inspiration on your web components ( animation , navbar , scrolling etc. ): https://bbbootstrap.com/
+- Bootstrap is a css framework , with a purpose to speed up the web dev process. However , there are some instances where you will still have to code in a pure css file.
+- Do not hesitate to watch some references on the internet ( YouTube , StackOverflow etc. ) as some functions in Bootstrap are quite new and interesting!
+
+Good Luck :D
 
  
 
