@@ -59,7 +59,7 @@ Bootstrap is a popular framework used in web development to make building websit
 - Bootstrap is a css framework , with a purpose to speed up the web dev process. However , there are some instances where you will still have to code in a pure css file.
 - Do not hesitate to watch some references on the internet ( YouTube , StackOverflow etc. ) as some functions in Bootstrap are quite new and interesting!
 
-Good Luck :D
+Good Luck and Happy Coding :D
 
  
 
