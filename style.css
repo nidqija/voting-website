@@ -68,3 +68,21 @@ body{
     width: 90%;
     margin: 0 auto;
 }
+
+#candidates{
+    width: 100%;
+    height: 700px;
+    position: relative;
+    top: 350px;
+    
+}
+
+#text{
+    font-family: 'Nanum Gothic', sans-serif;
+    position: relative;
+    top: 100px;
+}
+
+#head{
+    font-family: 'Nanum Gothic', sans-serif;
+}
