@@ -86,3 +86,12 @@ body{
 #head{
     font-family: 'Nanum Gothic', sans-serif;
 }
+
+#picture{
+    height: 200px;
+}
+
+#kad-manila{
+    position: relative;
+    top: -700px;
+}
